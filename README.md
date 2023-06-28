@@ -34,6 +34,8 @@ In the dicussions I have already made some bold and oppionated statements, so yo
   - `CODEOWNERS`
 - GitHub Classrooms including
   - autograding
+- Notifications - including
+    - Notifier for GitHub (Google Chrome extension)
 
 I've been using these features over the course of a semester to facilitate two classes of Computer Scientists (AP degree, 2<sup>nd</sup> semester) the topic of [_Technology_](https://katalog.kea.dk/course/3050241/2022-2023) and one class of IT Architects (B.Sc, 2<sup>nd</sup> semester) the topic of [_Agile Development_](https://katalog.kea.dk/course/4111203/2022-2023). In the process I've changed my mind, experimented, automated, pulled-back, burned my fingers, failed and succeded. I have seen smoke coming out of the students ears trying to wrickle their mind around the complexity of it all - and I've seen them glow - and grow - when they suddenly, after a few moments of disbelief and staring with empty eyes into the screen suddenly smile and mumble; _"Wow, this is sooooo cool!"_
 
