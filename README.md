@@ -19,7 +19,8 @@ In the dicussions I have already made some bold and oppionated statements, so yo
 - GitHub Issues - including:
   - Labels
   - Milestones
-  - Projects  
+  - Projects
+- GitHub Actions
 - GitHub CodeSpaces - including: 
   - GitHub Copilot (extension)
   - GitKraken GitLens (extension)
@@ -46,13 +47,15 @@ Some of you, I hope, may be inspired and want to learn even more details than I 
 #### This repo (this template) is open source 
 If you create new [issues](https://github.com/kea-dev/github-for-instructors/issues/new) or comment on [existing issues](https://github.com/kea-dev/github-for-instructors/issues) or join [the dicussion](https://github.com/kea-dev/github-for-instructors/discussions) on this repo then your postings will be _unmoderated_ and _publicly available_ to the entire world. It's probably not really different than what you are used to on Facebook, Twitter, LinkedIn, Instagram, Stackoverflow. But I just wanted to give you a heads up! Be your usual public self: Engaged and polite.
 
-### GDPR does not apply
+#### GDPR does not apply
 Since you are here 100% voulenteerly and you are using an account which you created and control yourself. Despite that you may well have a professional interest in participating, you are nevertheless here as a private person at your own will. Be your usual public self: Engaged and polite.
 
 ### Enough!
 Let's get started:
 
-This repo is a template. You create your a new repo, using this one as a te
+This repo is a template. You create yourself a copy of it, by using this one as a template:
+
+#### Get your own copy
 
 [**_Code_ >> _Use this template_ >> _Create new repository_**](https://github.com/kea-dev/github-for-instructors/generate)
 
@@ -60,14 +63,12 @@ This repo is a template. You create your a new repo, using this one as a te
 
 Note that this is [different from creating a fork or a clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#about-repository-templates).
 
+#### Work those issues
+There's a antomated GitHub Actions workflow that starts immidately when you generate your repository - it copies the template issues over to your own repo - It may take 15-20 seconds to finish - You can monitor it in the __Actions__ tab - of your own newly created repo, not this particular template.
 
-
-
-There's a workflow that starts whne you generate your repository - it copies the template issues over to your own repo - It may take 15-20 seconds to finish - You can monitor it in the __Actions__ tab.
+Continue there - and then join the rest of us in [the discussions](https://github.com/kea-dev/github-for-instructors/discussions) when you're ready.
 
 ## If you need help. 
-
-1. You are welcome to come back to [the issues of this template repo](https://github.com/kea-dev/planetscale/issues) here and comment on some of the existing ones - or create new ones.  
-2. You can also mention me ([@lakruzz](https://github.com/lakruzz)) or assign me to issues in your own repo. 
-3. And of course there's always our [discussion on github/kea-dev](https://github.com/orgs/kea-dev/discussions) 
-
+ 
+- There's always our [the discussions](https://github.com/kea-dev/github-for-instructors/discussions) - where you can mention me ([@lakruzz](https://github.com/lakruzz))
+- Or you can mention me ([@lakruzz](https://github.com/lakruzz)) or assign me to issues in your own repo (If you've granted me access).
