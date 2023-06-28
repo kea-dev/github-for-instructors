@@ -8,28 +8,33 @@ The assignement is designed to be an _asynchronous online workshop_ which can ta
 
 In the dicussions I have already made some bold and oppionated statements, so you can just jump right in, and share your own oppinion.
 
-The learning assignemnt will touch (lightly) on the following features:
+### The learning assignemnt will touch (lightly) on the following features:
 
 - MarkDown - including
-  - Super simple MarkDown
+  - Real Simple MarkDown
+  - GitHub Flavored MarkDown
   - Advanced MarkDown
   - Mermaid diagrams
   - GitHub pages (Jekyll based Static websites)
-- GitHub Issues including:
+- GitHub Issues - including:
   - Labels
   - Milestones
   - Projects  
-- GitHub CodeSpaces - including:
+- GitHub CodeSpaces - including: 
   - GitHub Copilot (extension)
   - GitKraken GitLens (extension)
+  - Using the bash terminal
   - `.devcontainer` configuration file
-  - `.gitconfig` configuration file - implemented as a repository level 🆕, team shared config 
+  - `.gitconfig` configuration file - implemented as a repository level 🆕, team shared config
+  - GitHub Command Line Interface `gh`
 - Community standards such as:
   - `README.md`
   - `CONTRIBUTING.md`
   - `CODEOWNERS`
 - GitHub Classrooms including
-  - autograding 
+  - autograding
+
+I've been using these over the course of a semester to teach features to 
 
 
 This repo is a template. You create your a new repo, using this one as a template.
