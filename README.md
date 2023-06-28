@@ -4,7 +4,7 @@ __This repo is a a template for a learning assignment, designed specifically for
 
 <img width="100" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/219313640-1328aefb-7695-41d2-bbef-5c5ffe6ab079.png">
 
-The assignement is designed to be an _asynchronous online workshop_ which can take an unlimited number of participants all working individaully and asynchronous to begin with - and then as they progress, they meet up in a common _public_ :warning: [online dicussion forum](https://github.com/kea-dev/github-for-instructors/discussions) hosted by the template repo itself. My hope is that you will share your feedback, join the discussions either on features or on perspectives to how instructers may utilise these features as a didactic tool in facilitating learning. 
+The assignement is designed to be an _asynchronous online workshop_ which can take an unlimited number of participants all working individaully and asynchronous to begin with - and then as they progress, they meet up in a common :warning: _public_ :warning: [online dicussion forum](https://github.com/kea-dev/github-for-instructors/discussions) hosted by the template repo itself. My hope is that you will share your feedback, join the discussions either on features or on perspectives to how instructers may utilise these features as a didactic tool in facilitating learning. 
 
 In the dicussions I have already made some bold and oppionated statements, so you can just jump right in, and share your own oppinion.
 
