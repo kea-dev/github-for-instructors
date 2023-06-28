@@ -20,7 +20,9 @@ In the dicussions I have already made some bold and oppionated statements, so yo
   - Labels
   - Milestones
   - Projects
-- GitHub Actions
+- GitHub Actions - including
+  - CI flow
+  - CD flow 
 - GitHub CodeSpaces - including: 
   - GitHub Copilot (extension)
   - GitKraken GitLens (extension)
